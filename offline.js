@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1648711273,
+	"version": 1648712360,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/9patch.png",
 		"images/wall_spice-sheet0.png",
 		"images/spritefont.png",
+		"images/particles.png",
 		"media/mixkit-unlock-game-notification-253.m4a",
 		"media/mixkit-unlock-game-notification-253.ogg",
 		"media/ukus-korotkiy.ogg",
