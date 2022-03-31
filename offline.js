@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1648712360,
+	"version": 1648713044,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,7 @@
 		"media/mixkit-unlock-game-notification-253.m4a",
 		"media/mixkit-unlock-game-notification-253.ogg",
 		"media/ukus-korotkiy.ogg",
+		"media/hypnotic-puzzle3.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
